@@ -1,6 +1,6 @@
 # Mandelbrot_OpenMP
 
-A program for producing actually quite beatiful images of the Mandelbrot set. Double precision implementation, parallelized using OpenMP. I implemented it somewhere around 2018.
+A program for producing actually quite beautiful images of the Mandelbrot set. Double precision implementation, parallelized using OpenMP. I implemented it somewhere around 2018.
 
 ## Command line parameters
 `xmin, xmax, ymin, ymax, #Iterations, width, height`
